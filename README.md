@@ -1,5 +1,5 @@
 SQL porfolio project.
-download credit card transactions dataset from below link :
+download credit card transactions dataset from below link:
 
 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
